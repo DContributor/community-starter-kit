@@ -1,10 +1,12 @@
 # welcome bot: A Probot App
+- It's a Github App to automate your workflow and
+- Improve your project activities.
 
-DESCRIPTION PLACEHOLDER
 
 ## What it does
 
-FEATURES PLACEHOLDER
+- Probot Welcomes new users of your repo
+- Probot says cheese to their pull requests
 
 ## Getting started
 
